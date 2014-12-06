@@ -24,7 +24,7 @@ int main(int argc, char *argv[])
     int c;
     
     /// Load an image
-    src = imread( "/Users/ccm/Documents/xCodeProjects/OpenCVLearning/common/media/map.jpg" );
+    src = imread( "/Users/ccm/Documents/xCodeProjects/OpenCVLearning/common/media/tower.png" );
     
     if( !src.data )
     { return -1; }

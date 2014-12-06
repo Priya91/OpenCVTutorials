@@ -14,7 +14,7 @@
 		<string>https://github.com/cmorace/OpenCVTutorials.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>_06_CannyEdgeDetection/OpenCVProject.xcodeproj</string>
+	<string>_06_GradientMagnitude/OpenCVProject.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>BB06F158EDF0C0D4EA11AF665D67446C33F9B085</key>
